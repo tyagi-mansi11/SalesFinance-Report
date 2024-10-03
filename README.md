@@ -1,6 +1,6 @@
 # Sales and Finance Report
 
-## Sales Report
+## Sales Report of AtliQ Hardwares
 
 The report summarises the company's sales performance, including customer and market performance in different years.
 -  **_Project Objective_**
@@ -13,7 +13,7 @@ The report summarises the company's sales performance, including customer and ma
 
      Analyzing sales data provides valuable insights that can drive growth, improve efficiency and enhance customer satisfaction.
 
-##  Finance Report 
+##  Finance Report of AtliQ Hardwares
    
 The report provides an overview of the company's financial performance, including Net sales, COGS(Cost of Goods Sold), Gross margin and Gross margin %.
 - **_Project Objective_** 
